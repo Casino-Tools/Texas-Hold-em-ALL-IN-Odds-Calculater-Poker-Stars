@@ -13,4 +13,5 @@
 The python file in this repository can be used to compile a Windows native client.
 If you don't want to compile it yourself, then contact me on Signal and we can figure out a deal.
 Signal contact: https://signal.me/#eu/131h2uuPlSzGkjaw82kYLG6oDuLeI4YMEI1VSop7YbAcIxFqx3FJ4LGMkzPQPAib
+Or message Signal username "MollyPercocet.69"
 
